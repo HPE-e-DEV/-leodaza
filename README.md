@@ -1,10 +1,12 @@
 para todos los repositorios aca exhibidos las condiciones de uso son:
 
 Permisos concedidos de Modificación limitativo
-Uso comercial /Limitativo
-Modificación/Limitativo
-Distribución / Previo aviso
-Uso privado/ ilimitado con derecho a mejorar el código y el de compartir las mejora con nosotros de  forma gratuita
+
+
+Uso comercial /Limitativo,
+Modificación/Limitativo,
+Distribución / Previo aviso,
+Uso privado/ ilimitado con derecho a mejorar el código y el de compartir las mejora con nosotros de  forma gratuita,
 
 
 
