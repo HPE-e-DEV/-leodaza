@@ -15,15 +15,15 @@ proyecto Alena basado en la plataforma .sol La marca Bitcash Token y el proyecto
 
 solo podrá ser hecho bajo escrito y previa autorización a mi persona bajo un contrato inteligente, donde se establecerán las condiciones de uso, distribución, así como la compra y venta y/o almacenamiento de nuestro token entre otras características y limitaciones que se acuerdan en dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , así como en cualquier otro uso no autorizado no es de mi responsabilidad incluyendo a la(s) empresa(s) que es y/o ( esten) socia a este proyecto, No se podrá ejercer ninguna acción legal o punible a mi persona o cualquier inversionista(s) y/o empresa(s)que este (en) asociada a este proyecto
 
-y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa y acorde para salvar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
+y quedará a pleno derecho de ejecución ,  asi como de llevar a cabo a cualquier acto(s) jurídico(s) legal ,  llevando a cabo cualquier acción juridirica que se considere justa y acorde para salvar mis derechos legales. como de los inversionistas y empresas asociadas en este proyecto.
 
 por ello se podrá actuar en cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este código, sin que esto conlleve a ningún agravio legal, ni a ningún tipo de compensación económica, ninguna en sus formas incluyendo transferencia y pagos bancarios, bajo ningun tipo de pago esto tambien incluye pago o transferencia a tarjetas prepagos y/o cuentas a nivel nacional y/o banca internacional asi como por el modelo de pago via app esto incluye por ninguna empresa de encomienda ni pago de remesa entre otras
 
 ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye pagos en criptoactivos /token / NFT /transferencia P2P, asi como cualquier otra forma y/o tipo de compensación de pago incluyendo el pago o transferencia en nuestro activo digital ( Bitcash )
 
-si ese fuese el caso usted deberá de resarcir cualquier tipo de daño, ya sea copia de módulos archivos, crakeo de Data, u otro tipo de crakeo a nuestro proyecto usted (es) deberá pagar una compensación económica, legal, pago en forma de trabajo no remunerado, a este proyecto en compensación ya leido y en acuerdo a ello usted es consciente del uso legítimo de nuestro software, como del código así como de cualquier otro proyecto que se ejecute con este código,
+si ese fuese el caso usted deberá de resarcir cualquier tipo de daño,incluyendo la propiedad intelectual  ya sea copia de módulos archivos, crakeo de Data, u otro tipo de crakeo a nuestro proyecto usted (es) deberá pagar una compensación económica, legal, pago en forma de trabajo no remunerado, a este proyecto en compensación ya leido y en acuerdo a ello usted es consciente del uso legítimo de nuestro software, como del código así como de cualquier otro proyecto que se ejecute con este código,
 
-al usar cualquiera de nuestro producto ya sea este codigo / app / exchanger/ archivo.exe u otro producto de nuestro proyecto usted acepta y entiende y esta acogiendo estas condiciones aqui descritas.
+al usar cualquiera de nuestro producto ya sea este codigo / app / exchanger/ archivo.exe u otro producto de nuestro proyecto, usted acepta . entiende y esta acogiendo estas condiciones aqui descritas.de forma legal y forma vinculante todas las clapsula y/o articulado legal aqui descrito las cuales no se podran omitir ni de forma  presente ni futura .
 
 declaración de uso HPE
 
