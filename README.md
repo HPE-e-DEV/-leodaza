@@ -1,9 +1,13 @@
 El proyecto Alena La marca Bitcash Token y el proyecto Alena completo inclyendo  
-este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados  es y son de mi propiedad, así como el de su creación le y me pertenece en su totalidad a Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE
+este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados  es y son de mi propiedad, así como el de su creación le
+y me pertenece en su totalidad a Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE
 basado en el articulado SPDX-License-Identifier: GPL-3.0 de derecho de autor aplicado a su uso distribución y comercialización como creación de nuevos tokens
 
-No se le puede dar un  uso comercial  ni copiar su código tampoco se autoriza a cobrar por sus descargas  sin la autorización previa de la División Empresarial  HPE ,
+
+No se le puede dar un  uso comercial  ni copiar su código tampoco se autoriza a cobrar por sus descargas 
+sin la autorización previa de la División Empresarial  HPE ,
 y sin el consentimiento  así como la autorización de la División De HPE Software sin el pago previo del importe por cada  descarga
+
 
 https://www.hpe.com/es/es/ acerca de/legal/términos-de-uso.html
 
@@ -13,22 +17,28 @@ limitaciones que se acuerdan en dicho contrato digital celebrado por ambas parte
 así como en cualquier otro uso no autorizado no es de mi responsabilidad incluyendo a la(s) empresa(s) que es y/o ( esten) socia a este proyecto,
 No se podrá ejercer ninguna acción legal o punible a mi persona o cualquier inversionista(s) y/o empresa(s)que este (en) asociada a este proyecto
 
-y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa y acorde para salvaguardar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
+y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa
+y acorde para salvaguardar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
 
-por ello se podrá actuar en cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este código, sin que esto conlleve a ningún agravio legal, 
+por ello se podrá actuar en cualquier medida posterior a la que se incurra (n) la (s) 
+personas que bifurquen este código, sin que esto conlleve a ningún agravio legal, 
 ni a ningún tipo de compensación económica, ninguna en sus formas incluyendo transferencia y pagos bancarios, 
-bajo ningun tipo de pago esto tambien incluye pago o transferencia a tarjetas prepagos y/o cuentas a nivel nacional y/o banca internacional asi como por el modelo de pago via app 
+bajo ningun tipo de pago esto tambien incluye pago o transferencia a tarjetas prepagos
+y/o cuentas a nivel nacional y/o banca internacional asi como por el modelo de pago via app 
 esto incluye por ninguna empresa de encomienda ni pago de remesa entre otras
 
 ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye pagos en criptoactivos /token / NFT /transferencia P2P,
 asi como cualquier otra forma y/o tipo de compensación de pago incluyendo el pago o transferencia en nuestro activo digital ( Bitcash )
 
-si ese fuese el caso usted deberá de resarcir cualquier tipo de daño, ya sea copia de módulos archivos, crakeo de Data, u otro tipo de crakeo a nuestro proyecto usted (es)
-deberá pagar una compensación económica, legal, 
+si ese fuese el caso usted deberá de resarcir cualquier tipo de daño, ya sea copia de módulos archivos, 
+crakeo de Data, u otro tipo de crakeo a nuestro proyecto 
+sin la autorizacion correspondiente usted (es)
+deberá (s) y/o deberan pagar una compensación económica, legal, por trasgresion de derecho de autor
 pago en forma de trabajo no remunerado, a este proyecto en compensación ya leido y en acuerdo a ello usted es consciente del uso legítimo de nuestro software, 
 como del código así como de cualquier otro proyecto que se ejecute con este código,
 
-al usar cualquiera de nuestro producto ya sea este codigo / app / exchanger/ archivo.exe u otro producto de nuestro proyecto usted acepta y entiende y esta acogiendo estas condiciones aqui descritas.
+al usar cualquiera de nuestro producto ya sea este codigo / app / exchanger/ archivo.exe u otro producto de nuestro proyecto usted acepta
+y entiende y esta acogiendo estas condiciones aqui descritas.
 
 declaración de uso HPE
 
@@ -59,31 +69,38 @@ Renuncias de responsabilidad LAS HERRAMIENTAS DE HPE SE PROPORCIONAN
 "TAL CUAL" Y "CON CUALESQUIERA DEFECTOS QUE PUDIERAN CONTENER", Y TODOS LOS RIESGOS RELATIVOS AL FUNCIONAMIENTO Y LA CALIDAD DE ESTE SITIO WEB SON TU RESPONSABILIDAD.
 
 HPE RENUNCIA DE FORMA EXPRESA A CUALQUIER GARANTÍA (EXPLÍCITA, IMPLÍCITA O REGLAMENTARIA)
-CON RESPECTO A LAS HERRAMIENTAS DE HPE, QUE INCLUYE, A TÍTULO ENUNCIATIVO, CUALQUIER GARANTÍA IMPLÍCITA O REGLAMENTARIA DE COMERCIABILIDAD, IDONEIDAD PARA UN USO O FIN, TITULARIDAD 
+CON RESPECTO A LAS HERRAMIENTAS DE HPE, QUE INCLUYE, A TÍTULO ENUNCIATIVO, 
+CUALQUIER GARANTÍA IMPLÍCITA O REGLAMENTARIA DE COMERCIABILIDAD, IDONEIDAD PARA UN USO O FIN, TITULARIDAD 
 Y LA NO INFRACCIÓN DERECHOS DE PROPIEDAD INTELECTUAL.
 
-ESTO SIGNIFICA QUE HPE NO GARANTIZA QUE LAS HERRAMIENTAS DE HPE SE ENCUENTREN LIBRES DE PROBLEMAS. Sin limitarse a lo establecido anteriormente,
+ESTO SIGNIFICA QUE HPE NO GARANTIZA QUE LAS HERRAMIENTAS DE HPE 
+SE ENCUENTREN LIBRES DE PROBLEMAS. Sin limitarse a lo establecido anteriormente,
 
 
 HPE 
 no garantiza que las Herramientas de HPE incluyendo este repositorio  cumplan con Tus requisitos 
 o que ofrezcan un servicio ininterrumpido, 
-rápido o seguro, además de libre de errores ni que se corrijan los defectos de las Herramientas de HPE. HPE no garantiza los resultados que puedan obtenerse del uso de las Herramientas de HPE
+rápido o seguro, además de libre de errores ni que se corrijan los defectos de las Herramientas de HPE. HPE
+no garantiza los resultados que puedan obtenerse del uso de las Herramientas de HPE
 o la precisión o confiabilidad de cualquier información obtenida a través de las Herramientas de HPE. 
-Ningún asesoramiento o información, ya sea oral o por escrito, obtenido por Ti a través de las Herramientas de HPE o de HPE, sus subsidiarias, otras empresas afiliadas o sus proveedores 
+Ningún asesoramiento o información, ya sea oral o por escrito, obtenido por Ti a través de las Herramientas de HPE
+o de HPE, sus subsidiarias, otras empresas afiliadas o sus proveedores 
 (u oficiales, empleados, directores o agentes de cualquiera de estas entidades) (conjuntamente denominados "las Partes de HPE") 
 supondrá garantía alguna. HPE  asi como cualquier de nuestras Divisiones Empresariales renuncia yrenunciamos 
 a resarcir cualquier tipo de compensación equitativa hacia su persona , su empresa ,
 o algun otro tipo de sociedad mercantil por algun tipo de mala ejecucion , funcionamiento y/o instalacion de nuestros proyectos .
 
 si usted (es) hacen alguna mejora a nuestro o este proyecto usted sera recompensado equitativamente de acuerdo a su aporte a este repositorio y/o app 
-de ser usted una Universidad, estudiante de Ingenieria de softwarey/o informatica , desarollador en lenguaje Python , Nodejs, u otro ambiente que mejore este repositorio /app/ Herramienta,
+de ser usted una Universidad, estudiante de Ingenieria de softwarey/o informatica ,
+desarollador en lenguaje Python , Nodejs, u otro ambiente que mejore este repositorio /app/ Herramienta,
 se le otorgara beneficio en nuestro token -HPE Bitcash previo Deposito en Divisa , pago P2P , e transfer pay u otro tipo de aporte a nuestra cuenta
 en valor igual en Divisa Norteamericana se le dara en aportes a sus proyectos academicos en igualdad de financiamiento que su aporte ,
 
-Las garantías relacionadas con soluciones adquiridas a través de las Herramientas de HPE se regirán por Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
+Las garantías relacionadas con soluciones adquiridas a través de las Herramientas de HPE se regirán por
+Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
 
-Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA, NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades : 
+Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA,
+NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades : 
 e pay/ e transfer/ pagos P2P / transferencia entre cuentas entiendase por Wallet/Banco,Wallet/Wallet,Wallet/app,y/o
 cualquier otro tipo de transaccion por via electronica/app/pagos en credito/Debito incluyendo card/ID de pago Internacional 
 (A) CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL ni se podra pedir ningun tipo de compensacion
