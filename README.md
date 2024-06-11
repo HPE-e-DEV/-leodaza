@@ -13,7 +13,7 @@ limitaciones que se acuerdan en dicho contrato digital celebrado por ambas parte
 así como en cualquier otro uso no autorizado no es de mi responsabilidad incluyendo a la(s) empresa(s) que es y/o ( esten) socia a este proyecto,
 No se podrá ejercer ninguna acción legal o punible a mi persona o cualquier inversionista(s) y/o empresa(s)que este (en) asociada a este proyecto
 
-y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa y acorde para salvar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
+y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa y acorde para salvaguardar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
 
 por ello se podrá actuar en cualquier medida posterior a la que se incurra (n) la (s) personas que bifurquen este código, sin que esto conlleve a ningún agravio legal, 
 ni a ningún tipo de compensación económica, ninguna en sus formas incluyendo transferencia y pagos bancarios, 
