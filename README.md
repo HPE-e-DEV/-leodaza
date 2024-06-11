@@ -1,5 +1,5 @@
 El proyecto Alena La marca Bitcash Token y el proyecto Alena completo inclyendo  
-este o estos repositorio (s) y proyecto(s)  es y son de propiedad, así como el de su creación le pertenece a Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE
+este o todos estos repositorio (s) y proyecto(s) aca exhibidos ,como publicados  es y son de mi propiedad, así como el de su creación le y me pertenece en su totalidad a Leonardo Daza Blanco Ceo de Ing . Blockachain de la Division Empresarial De HPE
 basado en el articulado SPDX-License-Identifier: GPL-3.0 de derecho de autor aplicado a su uso distribución y comercialización como creación de nuevos tokens
 
 No se le puede dar un  uso comercial  ni copiar su código tampoco se autoriza a cobrar por sus descargas  sin la autorización previa de la División Empresarial  HPE ,
