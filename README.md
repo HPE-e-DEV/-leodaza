@@ -7,7 +7,9 @@ basado en el articulado SPDX-License-Identifier: GPL-3.0 de derecho de autor apl
 No se le puede dar un  uso comercial  ni copiar su código tampoco se autoriza a cobrar por sus descargas 
 sin la autorización previa de la División Empresarial  HPE ,
 y sin el consentimiento  así como la autorización de la División De HPE Software sin el pago previo del importe por cada  descarga
+Estos repositorios esta bajo Registro Legal y su codificación fue realizado por Leonardo Daza Blanco y la Div. de Servicios Empresariales HPE
 
+la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas y No es de libre uso por favor No lo copien sin autorización Previa Gracias 
 
 https://www.hpe.com/es/es/ acerca de/legal/términos-de-uso.html
 
