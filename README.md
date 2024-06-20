@@ -7,17 +7,25 @@ basado en el articulado SPDX-License-Identifier: GPL-3.0 de derecho de autor apl
 No se le puede dar un  uso comercial  ni copiar su código tampoco se autoriza a cobrar por sus descargas 
 sin la autorización previa de la División Empresarial  HPE ,
 y sin el consentimiento  así como la autorización de la División De HPE Software sin el pago previo del importe por cada  descarga
+
+
+
 Estos repositorios esta bajo Registro Legal y su codificación fue realizado por Leonardo Daza Blanco y la Div. de Servicios Empresariales HPE
 
-la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas y No es de libre uso por favor No lo copien sin autorización Previa Gracias 
+la copia y/o traslado de este código no se puede realizar sin previa autorización incluyendo para practicas académicas 
+y No es de libre uso por favor No lo copien sin autorización Previa Gracias 
 
 https://www.hpe.com/es/es/ acerca de/legal/términos-de-uso.html
 
 solo podrá ser hecho bajo escrito y previa autorización a mi persona bajo un contrato inteligente, 
-donde se establecerán las condiciones de uso, distribución, así como la compra y venta y/o almacenamiento de nuestro token entre otras características y 
-limitaciones que se acuerdan en dicho contrato digital celebrado por ambas partes , entre ellas el costo total de la transacción financiera implita en ese contrato , 
-así como en cualquier otro uso no autorizado no es de mi responsabilidad incluyendo a la(s) empresa(s) que es y/o ( esten) asociada a este proyecto,
-No se podrá ejercer ninguna acción legal o punible en contra  de mi persona o cualquier inversionista(s) y/o empresa(s)que este(en)  asociada a este proyecto
+donde se establecerán las condiciones de uso, distribución, así como la compra y venta
+y/o almacenamiento de nuestro token entre otras características y 
+limitaciones que se acuerdan en dicho contrato digital celebrado por ambas partes 
+, entre ellas el costo total de la transacción financiera implita en ese contrato , 
+así como en cualquier otro uso no autorizado no es de mi responsabilidad incluyendo a la(s) empresa(s) que es 
+y/o ( esten) asociada a este proyecto,
+No se podrá ejercer ninguna acción legal o punible en contra  de mi persona o cualquier inversionista(s) 
+y/o empresa(s)que este(en)  asociada a este proyecto
 
 y quedará a pleno derecho de ejecución legal cualquier acción que se considere justa como conveniente 
 para salvaguardar mis derechos legales como de los inversionistas y empresas asociadas en este proyecto.
@@ -30,15 +38,18 @@ bajo ningun tipo de pago esto tambien incluye pago o transferencia a tarjetas pr
 y/o cuentas a nivel nacional y/o banca internacional asi como por el modelo de pago via app 
 esto incluye por ninguna empresa de encomienda ni pago de remesa entre otras
 
-ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye pagos en: criptoactivos /token / NFT /transferencia P2P,
-asi como cualquier otra forma y/o tipo de compensación de pago incluyendo el pago o transferencia en nuestro activo digital ( Bitcash )
+ya sea Dinero Fiat/ transacciones Digitales entiendase que esto tambien incluye pagos en: 
+criptoactivos /token / NFT /transferencia P2P,
+asi como cualquier otra forma y/o tipo de compensación de pago incluyendo el pago 
+o transferencia en nuestro activo digital ( Bitcash )
 
 si ese fuese el caso usted deberá de resarcir cualquier tipo de daño, ya sea copia de módulos archivos, 
 crakeo de Data, u otro tipo de crakeo a nuestro proyecto 
 sin la autorizacion correspondiente usted (es)
 deberá (s) y/o deberan pagar una compensación económica, legal, por trasgresion de derecho de autor
 pago en forma de trabajo no remunerado,
-a este proyecto en compensación ya leido y en acuerdo a ello usted es consciente del uso legítimo de nuestro software, 
+a este proyecto en compensación ya leido 
+y en acuerdo a ello usted es consciente del uso legítimo de nuestro software, 
 como del código así como de cualquier otro proyecto que se ejecute con este código,
 
 al usar cualquiera de nuestro producto ya sea este codigo
@@ -47,16 +58,18 @@ y entiende y esta acogiendo estas condiciones aqui descritas.
 
 declaración de uso HPE
 
-Uso no autorizado de las Herramientas de HPE, Política de uso aceptable Te autorizamos a realizar un uso limitado de las Herramientas de HPE. 
+Uso no autorizado de las Herramientas de HPE, Política de uso aceptable 
+Te autorizamos a realizar un uso limitado de las Herramientas de HPE. 
 Queda prohibido cualquier otro uso de las Herramientas de HPE que exceda los Usos permitidos. 
 La violación de esta disposición constituirá un uso no autorizado de las Herramientas de HPE. 
 Esto se debe a que todos los derechos de las Herramientas de HPE
 y estos Materiales son propiedad de HPE, 
 sus subsidiarias o compañías afiliadas.
 
-El uso no autorizado de las Herramientas de HPE , de este repositorio asi como de cualquier otra app de nuestra propiedad  
+El uso no autorizado de las Herramientas de HPE ,incluyendo estos y/o de este repositorio asi como de cualquier otra app de nuestra propiedad  
 y los Materiales puede dar lugar a la infracción de varias leyes de propiedad intelectual internacionales y de Estados Unidos.
-No deseamos que esto suceda y, por tanto, te hemos ofrecido ejemplos de acciones que deben evitarse en nuestra Política de uso aceptable, 
+No deseamos que esto suceda y, por tanto,
+te hemos ofrecido ejemplos de acciones que deben evitarse en nuestra Política de uso aceptable, 
 que se encuentra aquí.
 
 Debes seguir la Política de uso aceptable de HPE siempre que emplee las Herramientas de HPE 
@@ -64,17 +77,21 @@ o cualquiera de las soluciones que se ofrecen desde las Herramientas de HPE.
 
 Finalización de tu uso de las Herramientas de HPE Cualquiera de las partes (Nosotros o Tú)
 puede dar por finalizado tu uso de las Herramientas de HPE en cualquier momento.
-Tu uso de las Herramientas de HPE finalizará automáticamente en caso de que infrinjas cualquiera de estas Condiciones. Aclaraciones:
+Tu uso de las Herramientas de HPE 
+finalizará automáticamente en caso de que infrinjas cualquiera de estas Condiciones. Aclaraciones:
 
 A menos que lo acordemos contigo por escrito, podemos finalizar, suspender o modificar Tu registro,
 o el acceso, a la totalidad oa parte de las Herramientas de HPE sin previo aviso, 
-en cualquier momento y por cualquier razón. Puedes interrumpir Tu acceso y uso de las Herramientas de HPE en cualquier momento. 
+en cualquier momento y por cualquier razón. Puedes interrumpir Tu acceso
+y uso de las Herramientas de HPE en cualquier momento. 
 En caso de una finalización automática debido a una infracción,
 debes destruir de forma inmediata cualquier material descargado o impreso (y cualquier copia de este).
-La finalización de las soluciones adquiridas a través de las Herramientas de HPE se registrará por Otros acuerdos
+La finalización de las soluciones adquiridas a través de las Herramientas de HPE
+se registrará por Otros acuerdos
 (tal y como se definen en la sección «Otros acuerdos; Nuestras soluciones»),
 que no finalizarán necesariamente cuando lo haga el uso de las Herramientas de HPE . 
-No obstante, la finalización de las Herramientas de HPE puede afectar a la experiencia del usuario para las soluciones HPE. 
+No obstante, la finalización de las Herramientas de HPE 
+puede afectar a la experiencia del usuario para las soluciones HPE. 
 Renuncias de responsabilidad LAS HERRAMIENTAS DE HPE SE PROPORCIONAN 
 "TAL CUAL" Y "CON CUALESQUIERA DEFECTOS QUE PUDIERAN CONTENER",
 Y TODOS LOS RIESGOS RELATIVOS AL FUNCIONAMIENTO Y LA CALIDAD DE ESTE SITIO WEB SON TU RESPONSABILIDAD.
@@ -96,38 +113,50 @@ no garantiza los resultados que puedan obtenerse del uso de las Herramientas de 
 o la precisión o confiabilidad de cualquier información obtenida a través de las Herramientas de HPE. 
 Ningún asesoramiento o información, ya sea oral o por escrito, obtenido por Ti a través de las Herramientas de HPE
 o de HPE, sus subsidiarias, otras empresas afiliadas o sus proveedores 
-(u oficiales, empleados, directores o agentes de cualquiera de estas entidades) (conjuntamente denominados "las Partes de HPE") 
+(u oficiales, empleados, directores o agentes de cualquiera de estas entidades)
+(conjuntamente denominados "las Partes de HPE") 
 supondrá garantía alguna. HPE  asi como cualquier de nuestras Divisiones Empresariales renuncia yrenunciamos 
 a resarcir cualquier tipo de compensación equitativa hacia su persona , su empresa ,
-o algun otro tipo de sociedad mercantil por algun tipo de mala ejecucion , funcionamiento y/o instalacion de nuestros proyectos .
+o algun otro tipo de sociedad mercantil por algun tipo de mala ejecucion 
+, funcionamiento y/o instalacion de nuestros proyectos .
 
-si usted (es) hacen alguna mejora a nuestro o este proyecto usted sera recompensado equitativamente de acuerdo a su aporte a este repositorio y/o app 
+si usted (es) hacen alguna mejora a nuestro
+o este proyecto usted sera recompensado equitativamente de acuerdo a su aporte a este repositorio y/o app 
 de ser usted una Universidad, estudiante de Ingenieria de softwarey/o informatica ,
 desarollador en lenguaje Python , Nodejs, u otro ambiente que mejore este repositorio /app/ Herramienta,
-se le otorgara beneficio en nuestro token -HPE Bitcash previo Deposito en Divisa , pago P2P , e transfer pay u otro tipo de aporte a nuestra cuenta
-en valor igual en Divisa Norteamericana se le dara en aportes a sus proyectos academicos en igualdad de financiamiento que su aporte ,
+se le otorgara beneficio en nuestro token -HPE Bitcash previo Deposito en Divisa ,
+pago P2P , e transfer pay u otro tipo de aporte a nuestra cuenta
+en valor igual en Divisa Norteamericana se le dara en aportes a sus proyectos academicos
+en igualdad de financiamiento que su aporte ,
 
 Las garantías relacionadas con soluciones adquiridas a través de las Herramientas de HPE se regirán por
 Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
 
 Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA,
-NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades : 
+NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica
+, bajo cualquier circunstancia ya sea en la siguiente modalidades : 
 e pay/ e transfer/ pagos P2P / transferencia entre cuentas entiendase por Wallet/Banco,Wallet/Wallet,Wallet/app,y/o
 cualquier otro tipo de transaccion por via electronica/app/pagos en credito/Debito incluyendo card/ID de pago Internacional 
-(A) CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL 
+(A) CUALQUIER DAÑO INDIRECTO, ESPECIAL,
+CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL 
 ni se podra pedir ningun tipo de compensacion
 " bajo por ningun medio"
 de agraviar,y/o levantar falso testimonio(s) o desprestigiar a mi persona 
 , socio(s),inversionista(s) ,Empresa(s) o a ningun empleado Directo o indirecto de HPE o de sus filiales usted (es) 
-podran ser demandado legalmente y de pagar la indenizacion dictada legalmente o de resarcir el daño hecho y usted(s) aceptan a revertir cualquier daño hecho
+podran ser demandado legalmente y de pagar la indenizacion dictada legalmente 
+o de resarcir el daño hecho y usted(s) aceptan a revertir cualquier daño hecho
 
 
-(INCLUIDOS, A TÍTULO ENUNCIATIVO, LOS RESULTANTES DE LA PÉRDIDA DE INGRESOS, BENEFICIOS, BUENA FE, USO, INTERRUPCIÓN COMERCIAL U OTRAS PÉRDIDAS INTANGIBLES), 
+(INCLUIDOS, A TÍTULO ENUNCIATIVO, LOS RESULTANTES DE LA PÉRDIDA DE INGRESOS, BENEFICIOS, BUENA FE, USO, 
+INTERRUPCIÓN COMERCIAL U OTRAS PÉRDIDAS INTANGIBLES), 
 RESULTANTES DE O RELACIONADAS CON LAS HERRAMIENTAS DE HPE 
-(INCLUIDOS, A TÍTULO ENUNCIATIVO, EL USO, LA INCAPACIDAD DE USO O LOS RESULTADOS DEL USO DE ESTE SITIO WEB), AUNQUE TALES DAÑOS SE BASEN EN LA GARANTÍA, 
-EL CONTRATO, AGRAVIO, ESTATUTO O CUALQUIER OTRA TEORÍA LEGAL E INCLUSO SI LAS PARTES DE HPE HUBIERAN RECIBIDO AVISO DE (O CONOCIERAN) LA POSIBILIDAD DE CUENTOS DAÑOS.
+(INCLUIDOS, A TÍTULO ENUNCIATIVO, EL USO, LA INCAPACIDAD DE USO O LOS RESULTADOS DEL USO DE ESTE SITIO WEB),
+AUNQUE TALES DAÑOS SE BASEN EN LA GARANTÍA, 
+EL CONTRATO, AGRAVIO, ESTATUTO O CUALQUIER OTRA TEORÍA LEGAL E INCLUSO SI LAS PARTES DE HPE HUBIERAN RECIBIDO AVISO DE
+(O CONOCIERAN) LA POSIBILIDAD DE CUENTOS DAÑOS.
 
-EXCLUSIONES Y LIMITACIONES: Ciertas jurisdicciones no permiten la exclusión de ciertas garantías o la limitación o exclusión de responsabilidad por ciertos daños. 
+EXCLUSIONES Y LIMITACIONES: Ciertas jurisdicciones no permiten la exclusión de ciertas garantías 
+o la limitación o exclusión de responsabilidad por ciertos daños. 
 Por lo tanto, algunas de las renuncias y limitaciones de responsabilidad anteriores podrían no ser aplicables en su caso.
 En la medida en que las Partes de HPE no puedan, de acuerdo con las leyes aplicables,
 renunciar a cualquier garantía implícita o limitar su responsabilidad, la extensión y duración de esta garantía, 
@@ -136,12 +165,15 @@ así como el alcance de responsabilidad de las Partes de HPE, se limitarán a la
 La limitación de responsabilidad relativa a las soluciones adquiridas a través de las Herramientas de HPE 
 se registrará por Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
 
-Otros acuerdos; Nuestras soluciones HPE puede proporcionar soluciones, como hardware, firmware, infraestructura como servicio, plataforma como servicio, software, software como servicio,
+Otros acuerdos; Nuestras soluciones HPE puede proporcionar soluciones, como hardware, firmware, 
+infraestructura como servicio, plataforma como servicio, software, software como servicio,
 servicios de soporte, servicios profesionales y otras soluciones (colectivamente, las «Soluciones HPE») 
 o acceder a las Herramientas de HPE bajo las condiciones de un acuerdo independiente entre Tú y HPE 
 ("Otro acuerdo"). Las obligaciones de HPE con respecto a cualquier producto, servicio 
-o acceso que ponga a su disposición bajo cualquier Otro acuerdo se regirán únicamente por Otro acuerdo bajo el que este producto, 
-servicio o acceso se proporcione y estas Condiciones no se otorgarán o interpretarán para alterar las condiciones de cualquier Otro acuerdo. 
+o acceso que ponga a su disposición bajo cualquier Otro acuerdo
+se regirán únicamente por Otro acuerdo bajo el que este producto, 
+servicio o acceso se proporcione y estas Condiciones no se otorgarán
+o interpretarán para alterar las condiciones de cualquier Otro acuerdo. 
 En caso de existir contradicciones entre estas Condiciones y cualquier Otro acuerdo, prevalecerá el Otro acuerdo.
 
 HPE puede modificar las Herramientas de HPE HPE se reserva el derecho de modificar, suspender 
@@ -149,77 +181,114 @@ o interrumpir las Herramientas de HPE en cualquier momento sin que medie aviso p
 No obstante, nos gustaría que tuvieras en cuenta lo siguiente:
 
 HPE puede realizar cambios en las Herramientas de HPE, los Materiales 
-o las Soluciones HPE, así como en los precios descritos en las Herramientas de HPE, en cualquier momento sin previo aviso.
-Las Herramientas de HPE pueden encontrarse obsoletas y HPE no asume compromiso alguno de actualizarlas. La información publicada en las Herramientas de HPE puede referirse a programas o
+o las Soluciones HPE, así como en los precios descritos en las Herramientas de HPE,
+en cualquier momento sin previo aviso.
+Las Herramientas de HPE pueden encontrarse obsoletas y HPE no asume compromiso alguno de actualizarlas. 
+La información publicada en las Herramientas de HPE puede referirse a programas o
 Soluciones HPE que no se encuentren disponibles en su país. 
-Te recomendamos que te pongas en contacto con tu representante empresarial local de HPE para obtener información sobre los programas o Soluciones HPE que puedan estar disponibles para TI 
+Te recomendamos que te pongas en contacto con tu representante empresarial local de HPE
+para obtener información sobre los programas o Soluciones HPE que puedan estar disponibles para TI 
 a través de las Herramientas de HPE.
 
-Tus envíos a las Herramientas de HPE Ciertas secciones de las Herramientas de HPE (por ejemplo, salas de chat, evaluaciones de clientes, áreas de reseñas, foros de comunidad y soporte) 
+Tus envíos a las Herramientas de HPE Ciertas secciones de las Herramientas de HPE 
+(por ejemplo, salas de chat, evaluaciones de clientes, áreas de reseñas, foros de comunidad y soporte) 
 pueden permitirte enviar comentarios, información, datos, texto, software, música. . . ,
-sonido, fotografías, gráficos, vídeos, mensajes y otros materiales, incluidas solicitudes de nuevas características y mejoras (cada uno, un "Envío de usuario"). 
-Aceptas que eres el único responsable de todos tus envíos de usuario y que cada uno de estos envíos se considera no confidenciales ni propietarios. Además,
-HPE no garantiza que obtenga recursos a través de HPE o terceros para editar o eliminar cualquier Envío de usuario que haya realizado. Del mismo modo, HPE no se encuentra obligado a emplear su Envío de usuario.
+sonido, fotografías, gráficos, vídeos, mensajes y otros materiales,
+incluidas solicitudes de nuevas características y mejoras (cada uno, un "Envío de usuario"). 
+Aceptas que eres el único responsable de todos tus envíos de usuario
+y que cada uno de estos envíos se considera no confidenciales ni propietarios. Además,
+HPE no garantiza que obtenga recursos a través de HPE o terceros para editar
+o eliminar cualquier Envío de usuario que haya realizado. Del mismo modo, HPE no se encuentra obligado a emplear su Envío de usuario.
 
 Al realizar cualquier Envío de usuario, representa y garantizas que:
 
-Eres mayor de 13 años; Posees todos los derechos de tus Envíos de usuario (incluyendo, pero sin limitaciones, todos los derechos de texto, código, audio, vídeo o grabación digital y 
+Eres mayor de 13 años; Posees todos los derechos de tus Envíos de usuario 
+(incluyendo, pero sin limitaciones, todos los derechos de texto, código, audio, vídeo o grabación digital y 
 el rendimiento contenido en dicho Envío) 
-o bien ha adquirido todos los derechos necesarios de tu Envío de usuario para otorgar a HPE los derechos en tus Envíos de usuario como se describe en estas Condiciones; 
-Has pagado o pagarás al completo todas las tarifas de licencia, permisos y otras obligaciones económicas, de cualquier tipo, que surjan de cualquier uso o explotación comercial de tus Envíos de usuario; 
-Eres la persona que aparece o que se escucha en tus Envíos de usuario o bien has obtenido permiso de cada persona (incluyendo consentimiento de padres o tutores para cualquier persona menor de 18 años,
-que aparece o se escucha en tus Envíos de usuario para otorgarle derechos a HPE como se describe en estas Condiciones Tus Envíos de usuario no infringen derechos de propiedad, marca comercial, patente, secreto comercial 
+o bien ha adquirido todos los derechos necesarios de tu Envío de usuario para otorgar a HPE 
+los derechos en tus Envíos de usuario como se describe en estas Condiciones; 
+Has pagado o pagarás al completo todas las tarifas de licencia, permisos y otras obligaciones económicas, de cualquier tipo,
+
+que surjan de cualquier uso o explotación comercial de tus Envíos de usuario; 
+Eres la persona que aparece o que se escucha en tus Envíos de usuario o bien has obtenido permiso de cada persona 
+(incluyendo consentimiento de padres o tutores para cualquier persona menor de 18 años,
+que aparece o se escucha en tus Envíos de usuario para otorgarle derechos a HPE como se describe en estas Condiciones
+Tus Envíos de usuario no infringen derechos de propiedad, marca comercial, patente, secreto comercial 
 u otros derechos de propiedad intelectual, 
-derechos de privacidad, normas de sitios de redes sociales, o cualquier otro derecho legal o; moral de cualquier tercero Renuncias de forma voluntaria a todos los "derechos morales" 
-que puedes tener en tu Envío de usuario Tu Envío de usuario no contiene información que considere falsa, inexacta o equívoca, pero sin limitaciones,
-las que rigen el control de exportaciones; , la protección del consumidor, 
-la competencia desleal, la antidiscriminación o la publicidad falsa); Tu Envío de usuario no debe ser ni debe considerarse de forma razonable,
+derechos de privacidad, normas de sitios de redes sociales, o cualquier otro derecho legal o;
+moral de cualquier tercero Renuncias de forma voluntaria a todos los "derechos morales" 
+que puedes tener en tu Envío de usuario Tu Envío de usuario
+no contiene información que considere falsa, inexacta o equívoca, pero sin limitaciones,
+las que rigen el control de exportaciones; 
+, la protección del consumidor, 
+la competencia desleal, la antidiscriminación o la publicidad falsa);
+Tu Envío de usuario no debe ser ni debe considerarse de forma razonable,
 difamatorio, calumniante, basado en el odio, tendencioso u ofensivo desde el punto de vista racial, étnico, 
-religioso o de otra naturaleza ni constitutivo de amenaza o coacción para cualquier persona, alianza o corporación, y tampoco vulgar, pornográfico, obsceno o invasivo de la privacidad ajena;
+religioso o de otra naturaleza ni constitutivo de amenaza o coacción para cualquier persona,
+alianza o corporación, y tampoco vulgar, pornográfico, obsceno o invasivo de la privacidad ajena;
 No has recibido ni recibirás compensaciones o consideraciones de tercero alguna por tu Envío de usuario; 
-Tu Envío de usuario no contiene materiales de ningún sitio web de terceros o direcciones, direcciones de correo electrónico, información de contrato o números de teléfono (que no sea el tuyo); 
+Tu Envío de usuario no contiene materiales de ningún sitio web de terceros o direcciones, direcciones de correo electrónico,
+información de contrato o números de teléfono (que no sea el tuyo); 
 Tu Envío de usuario no contiene virus, gusanos, spyware, adware u otros programas o archivos potencialmente dañinos; 
-Tu Envío de usuario no contiene información que considere confidencial, patentada o personal; Tu Envío de usuario no contiene ni constituye publicidad no solicitada o no autorizada, 
-materiales promocionales, correo basura, spam, cartas en cadena, aviones piramidales o cualquier otra forma de petición. Al realizar un Envío de usuario, 
+Tu Envío de usuario no contiene información que considere confidencial, patentada o personal; 
+Tu Envío de usuario no contiene ni constituye publicidad no solicitada o no autorizada, 
+materiales promocionales, correo basura, spam, cartas en cadena, aviones piramidales
+o cualquier otra forma de petición. Al realizar un Envío de usuario, 
 otorga a HPE una licencia irrevocable, perpetua,
 transferible, no exclusiva, pagada en su totalidad, internacional, libre de regalías
 (apta para sublicencias a través de Múltiples capas) para:
 
-Utilizar, distribuir, reproducir, modificar, adaptar, crear trabajos derivados, publicar, traducir, realizar de forma pública y mostrar de forma pública tus Envíos de usuario
+Utilizar, distribuir, reproducir, modificar, adaptar, crear trabajos derivados, publicar,
+traducir, realizar de forma pública y mostrar de forma pública tus Envíos de usuario
 (o cualquier modificación de los mismos), en su totalidad o en parte, en cualquier formato. . .
-o medio ahora conocido o desarrollado más adelante; Hacer, haber hecho, usar, vender, ofrecer para la venta e importar tus Envíos de usuario (o cualquier modificación de los mismos), 
-en su totalidad o en parte, para cualquier finalidad; Utilizar (y permitir que otros utilicen) tu Envío de usuario de cualquier forma o para cualquier fin (incluidos, a título enunciativo, multas comerciales)
-que HPE considera apropiado a su exclusiva discreción (incluyendo, pero sin limitaciones, para incorporar tu Envío de usuario o cualquier modificación del mismo, en su totalidad o en parte, a cualquier tecnología, 
-producto o servicio); Mostrar publicidad relacionada con tus Envíos de usuario y usar tus Envíos de usuario para publicidad y multas promocionales. HPE puede, pero no está obligado a,
-preseleccionar los Envíos de usuario o supervisar cualquier zona de las Herramientas de HPE a través de la cual los Envíos de usuario puedan enviarse. No se requiere que HPE aloje,
-muestre o distribuya ningún Envío de usuario a través de las Herramientas de HPE y puede eliminar en cualquier momento o rechazar cualquier Envío de usuario por cualquier motivo.
+o medio ahora conocido o desarrollado más adelante; Hacer, haber hecho, usar, vender,
+ofrecer para la venta e importar tus Envíos de usuario (o cualquier modificación de los mismos), 
+en su totalidad o en parte, para cualquier finalidad; Utilizar (y permitir que otros utilicen) 
+tu Envío de usuario de cualquier forma o para cualquier fin (incluidos, a título enunciativo, multas comerciales)
+que HPE considera apropiado a su exclusiva discreción (incluyendo, pero sin limitaciones, para incorporar 
+tu Envío de usuario o cualquier modificación del mismo, en su totalidad o en parte, a cualquier tecnología, 
+producto o servicio); Mostrar publicidad relacionada con tus Envíos de usuario y usar tus Envíos de usuario para publicidad y multas promocionales. 
+HPE puede, pero no está obligado a,
+preseleccionar los Envíos de usuario o supervisar cualquier zona de las Herramientas de HPE 
+a través de la cual los Envíos de usuario puedan enviarse. No se requiere que HPE aloje,
+muestre o distribuya ningún Envío de usuario a través de las Herramientas de HPE 
+y puede eliminar en cualquier momento o rechazar cualquier Envío de usuario por cualquier motivo.
 HPE no se hace responsable de ninguna pérdida, robo o daño de ningún tipo en ningún envío de usuario. Además,
 reconoces que HPE puede divulgar libremente tu envío de usuario a cualquier tercero sin obligación de confidencialidad por parte del destinatario.
 
-Derechos de propiedad intelectual HPE respeta los derechos de propiedad intelectual de terceros y Te pedimos que hagas lo mismo. HPE puede, en circunstancias adecuadas y de acuerdo con nuestro criterio, 
+Derechos de propiedad intelectual HPE respeta los derechos de propiedad intelectual de terceros y
+Te pedimos que hagas lo mismo. HPE puede, en circunstancias adecuadas y de acuerdo con nuestro criterio, 
 dar por finalizado el acceso a las Herramientas de HPE a aquellos usuarios que infringen los derechos de propiedad intelectual de terceros. 
 Si crees que Tu trabajo está siendo objeto de infracciones en materia de derechos de autor o de marca comercial y aparece en las Herramientas de HPE,
 comunícanoslo mediante el procedimiento aquí descrito Reclamaciones de infracción en sitios web de HPE.
 
-Derechos restringidos del Gobierno de EE.UU. UU. Cualquier material que se pueda descargar por o en nombre de los Estados Unidos de América, sus agencias y/o intermediarios («Gobierno de EE. UU.») 
+Derechos restringidos del Gobierno de EE.UU. UU. Cualquier material
+que se pueda descargar por o en nombre de los Estados Unidos de América, sus agencias y/o intermediarios («Gobierno de EE. UU.») 
 se encuentra sujeto a las disposiciones de FAR 12.211 –
-«Datos técnicos», y FAR 12.212 – «Software de ordenador», oa las cláusulas que proporcionan protecciones equivalentes de HPE en DFARS u otras regulaciones de agencia específicas.
+«Datos técnicos», y FAR 12.212 – «Software de ordenador»,
+oa las cláusulas que proporcionan protecciones equivalentes de HPE en DFARS u otras regulaciones de agencia específicas.
 
 Legislación y normativa internacional sobre comercio y sanciones HPE administra las Herramientas de HPE desde sus oficinas de Estados Unidos. HPE 
-no se responsabiliza de que las Herramientas de HPE sean adecuadas o se encuentren disponibles para su uso fuera de Estados Unidos ni del acceso a ellas desde territorios donde su contenido pueda ser ilegal,
+no se responsabiliza de que las Herramientas de HPE sean adecuadas o se encuentren disponibles
+para su uso fuera de Estados Unidos ni del acceso a ellas desde territorios donde su contenido pueda ser ilegal,
 restringido o encontrado prohibido.
 
 Accede a las Herramientas de HPE desde fuera de Estados Unidos por iniciativa propia y eres responsable del cumplimiento de las leyes aplicables.
 
 Aceptas cumplir con las restricciones y regulaciones de exportación y reexportación del Departamento de Comercio y del Tesoro,
-así como de cualquier otra agencia o autoridad de Estados Unidos o de otros países, en relación con Tu uso de las Herramientas de HPE. Asimismo aceptas no ceder o autorizar la cesión de Material alguna,
+así como de cualquier otra agencia o autoridad de Estados Unidos o de otros países, en relación con Tu uso
+de las Herramientas de HPE. Asimismo aceptas no ceder o autorizar la cesión de Material alguna,
 si tales acciones infringen cualquier ley, a un país prohibido o que contravenga de otra forma la legislación. Concretamente, aunque sin limitaciones, 
-los Materiales no podrán ser exportados o reexportados ni cedidos, directa o indirectamente, si tales acciones resultan contrarias a cualquier legislación,
+los Materiales no podrán ser exportados o reexportados ni cedidos, directa o indirectamente,
+si tales acciones resultan contrarias a cualquier legislación,
 a (i) países o territorios sujetos a embargos o sanciones (en la actualidad, Cuba, Irán , Corea del Norte, Siria y el territorio de Crimea) oa ciudadanos o partes de esos países; (ii) 
-cualquier parte que participe en actividades de proliferación prohibidas o que realice un uso prohibido o restringido; o (iii) cualquier parte sujeta a sanciones de control o medidas de bloqueo comercial,
-incluidas las designadas en cualquiera de las listas de partes rechazadas o restringidas que figuran en la Lista de investigados consolidada (Consolidated Screening List) de los Departamentos de Estado, 
+cualquier parte que participe en actividades de proliferación prohibidas o que realice un uso prohibido o restringido; o (iii) 
+cualquier parte sujeta a sanciones de control o medidas de bloqueo comercial,
+incluidas las designadas en cualquiera de las listas de partes rechazadas 
+o restringidas que figuran en la Lista de investigados consolidada (Consolidated Screening List) de los Departamentos de Estado, 
 Comercio y Tesoro de Estados Unidos 
-(disponible en https://www.trade.gov/consolidated-screening-list ) o la Unión Europea (UE) (disponible en https://www.eeas.europa.eu/_en).Al utilizar los Materiales sujetos a restricciones y regulaciones, aceptas y 
+(disponible en https://www.trade.gov/consolidated-screening-list )
+o la Unión Europea (UE) (disponible en https://www.eeas.europa.eu/_en).Al utilizar los Materiales sujetos a restricciones y regulaciones, aceptas y 
 garantizas que no te encuentras en o bajo el control de, 
 ni eres un ciudadano o residente de, tales países ni figuras en ninguna de dichas listas.
 
@@ -232,9 +301,11 @@ Comunicaciones electrónicas Cuando visites las Herramientas de HPE o envíes co
 Podemos responderte mediante correo electrónico o bien mediante la publicación de avisos en las Herramientas de HPE. Reconoces que tales avisos, divulgaciones 
 y otras comunicaciones que HPE te proporcione electrónicamente cumplen con cualquier requisito legal de que tal comunicación sea por escrito.
 
-Propiedad A menos que se especifique lo contrario en estas Condiciones, todos los Materiales, además de su organización en las Herramientas de HPE, son de Nuestra propiedad exclusiva, Copyright ©
+Propiedad A menos que se especifique lo contrario en estas Condiciones, todos los Materiales,
+además de su organización en las Herramientas de HPE, son de Nuestra propiedad exclusiva, Copyright ©
 [fechas de creación] Hewlett Packard Enterprise Development LP. 
-Se reservan todos los derechos expresamente otorgados en este documento. Salvo que la ley aplicable indica lo contrario o lo limite, cualquier reproducción, distribución, modificación, 
+Se reservan todos los derechos expresamente otorgados en este documento.
+Salvo que la ley aplicable indica lo contrario o lo limite, cualquier reproducción, distribución, modificación, 
 retransmisión o publicación de cualquier material con derechos de autor se encuentra estrictamente prohibida sin el consentimiento expreso por escrito del propietario de los derechos o la licencia.
 
 Integridad del acuerdo para Todas Estas Condiciones, junto con cualquier término adicional que acuerdes cuando use elementos particulares de las Herramientas de HPE, 
